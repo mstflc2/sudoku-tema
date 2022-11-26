@@ -1,0 +1,12 @@
+ligth sınıfı oluşturabiliriz.
+place-item:ceter;
+ transform: translateX(-100%);//x ekseninde 2D dönüştürme
+ !!! setTimeout
+@keyframe bounce  animasyon 
+                
+myInterval = setInterval(function, milliseconds); 
+ ---yöntem, belirli aralıklarla (milisaniye cinsinden) bir işlev çağırır.
+
+
+
+
